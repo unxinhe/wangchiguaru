@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unxinhe.github.io/wangchiguaru/sitemap.xml
